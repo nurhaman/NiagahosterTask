@@ -1,0 +1,146 @@
+﻿/*CSS by Nurhaman - nurhaman1@gmail.com*/
+/*Date created 30/11/2016 - www.nurhaman.com */
+/*© Copyright 2015- 2016 Nurhaman.com. All rights reserved.*/
+
+body {
+	
+	margin:0;
+  background: #fdfdfd;
+  font-family: CenturyGothic, Helvetica, sans-serif;
+  color:#444;
+}
+.top-header {
+	background:#3498db;
+	color:#444;
+	/*box-shadow:0px 0px 3px #444;*/
+}
+
+.top-menu {
+	background-color:#3498db;
+}
+
+.top-menu li {
+	list-style: none;
+	display:inline-table;
+}
+
+.fa {
+	color:#fff;
+	padding:8px 11px;
+}
+
+.a-fff {
+	color:#fff;
+}
+
+.logo-brand img {
+	padding: 10px 0px;
+	max-width:240px;
+}
+
+.menu-header {
+	
+	float:left;
+}
+
+.menu-header-item {
+	padding: 15px 0px;
+	float:right;
+	font-family:sans-serif;
+}
+
+.menu-header-item ul li{
+	list-style: none;
+	display:inline-table;
+	padding: 0px 4px;
+}
+	
+.menu-header-item ul li a {
+	text-decoration:none;
+	color:#fff;
+	font-weight:bold;
+	transition: .3s;
+	padding:7px;
+}
+
+.menu-header-item ul li a:hover {
+	background-color:#46a4ff;
+	padding:7px;
+}
+.side-content {
+	background-color:#3498db;
+}
+
+input.form-control {
+	border-radius:0px;
+}
+
+.call-text {
+	color:#fff;
+	text-align:center;
+	background-color:#3498db;
+	margin-top:10px;
+}
+
+.call-text a {
+	color:#fff;
+}
+
+.content {
+	border-right:1px solid #ddd;
+}
+
+.card {
+	background-color#fff;
+	
+}
+
+.card-3 li{
+	list-style:none;
+}
+
+.info-card {
+		text-align:center;
+		width: 100%;
+		border: 1px solid rgb(215, 215, 215);
+		position: relative;
+		font-family: 'Lato', sans-serif;
+		margin-bottom: 20px;
+		overflow: hidden;
+	}
+
+.fa-phone,
+.fa-comments {
+	color:#444;
+	text-align:center;
+}
+
+footer {
+	color:#fff;
+}
+
+
+.footer-container {
+	padding-top:20px;
+}
+
+.footer-container h3 {
+	padding-bottom:10px;
+	color:#3498db;
+}
+.list1-footer {
+	padding-left:15px;
+}
+
+.list1-footer li{
+	
+}
+
+.list1-footer li a {
+	color:#fff;
+}
+
+.bottom-footer {
+	background-color:#3498db;
+	color:#fff;
+}
